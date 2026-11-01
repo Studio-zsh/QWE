@@ -5,7 +5,7 @@ import http from 'http';
 // ================= 已全部填好 =================
 const APP_ID = '1906212850'; 
 const APP_SECRET = 'CLHF4nOrJlEcvspb'; 
-const DEEPSEEK_KEY = 'sk-7a18f5a453b84c588334d0251ac93073'; 
+const DEEPSEEK_KEY = 'sk'; 
 // ==============================================
 
 const API_BASE = 'https://api.sgroup.qq.com';
